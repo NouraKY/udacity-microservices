@@ -40,3 +40,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
+[![nalyahya](https://circleci.com/gh/nalyahya/udacity-microservices.svg?style=svg)](https://app.circleci.com/github/NouraKY/udacity-microservices/pipelines/c5273fe4-d9f5-4759-b697-e49562ea1c12/workflows/2ecaf7b4-8cd3-496d-9f39-89a216c89318)
+
