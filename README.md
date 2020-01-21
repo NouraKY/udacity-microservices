@@ -41,5 +41,12 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
+
+## files included: 
+* output_txt_files has the files required to pass. 
+* Make file contains the steps to run some of the commands. 
+* Dockerfile for Docker image. 
+* app.py the project code
+
 [![CircleCI](https://circleci.com/gh/NouraKY/udacity-microservices.svg?style=svg)](https://circleci.com/gh/NouraKY/udacity-microservices)
 
